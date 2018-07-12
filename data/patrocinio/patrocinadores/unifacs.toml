@@ -1,0 +1,5 @@
+nome = "placeholderplatina"#nome do patrocinador
+descricao = "UNIFACS - Universidade Salvador"#descricao que irá aparecer como texto alternativo da imagem
+link = "http://www.unifacs.br/"#endereço do site do patrocinador
+categoria = "institucional"#categoria do patrocinador (deve ser o mesmo nome do arquivo em data/patrocinio/categorias sem a extensão)
+imagem = "unifacs.svg" #imagem da empresa (apenas o nome do arquivo, deve estar em static/img/patrocinio)
