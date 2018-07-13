@@ -17,7 +17,7 @@ facebook = "devopsdaysssa" #para https://www.facebook.com/nao-existe colocar ape
 
 #Os próximos 3 parametros aceitam tags html (ex: <br>) e markdown (ex: **negrito**)
 quando = "27 de Outubro de 2018"
-onde = "[Unifacs](http://www.unifacs.br)<br>R. Dr. José Peroba, 251<br> Costa Azul"
+onde = "[UNIFACS Campus Paralela](http://www.unifacs.br)<br>Av. Luís Viana Filho nº 3146 / 3100 - Pituaçu"
 quanto = "Em breve"
 
 #latitude e longitude podem ser pegos no google maps mesmo :)
