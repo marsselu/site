@@ -1,0 +1,4 @@
+nome = "Late birds" #nome do tipo de ingresso
+descricao = "Valor para o último lote<br>Após o dia 22 de Outubro" #descrição para o tipo de ingresso
+preco = "R$ 80" #valor para o tipo de ingresso
+link = "https://devopsdayssa2018.eventize.com.br/index.php?pagina=4" #endereço para a compra desse tipo de ingresso
