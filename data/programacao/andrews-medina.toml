@@ -1,0 +1,17 @@
+hora = "13:30 - 13:45" #hora da atividade
+atividade = "Kubernetes na Jusbrasil"
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = """
+A mais de um ano atrás a Jusbrasil mudou de uma infraestrutura “in house” montada com ferramentas open source para uma infraestrutura como serviço utilizando o kubernetes.
+
+Com essa mudança foi possível fazer deploys contínuos de mais de 400 aplicações com mais de 800 containers sem ter necessidade de uma equipe dedicada a infraestrutura e sem ferir a disponibilidade das aplicações em produção.
+
+O objetivo dessa palestra é mostrar como essa infraestrutura funciona.
+"""
+palestrante = "Andrews Medina" #nome do palestrante
+#slides = ""

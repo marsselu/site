@@ -1,0 +1,13 @@
+hora = "12:55 - 13:25" #hora da atividade
+atividade = "O que é qualidade de software (na real) e como ela influencia na cultura DevOps"
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = """
+“O que é qualidade de software” é uma pergunta que pode ser respondida de vários jeitos. Algumas pessoas vão citar testes automatizados, outras vão falar de software sem bugs, ou de entregas frequentes. Mas você já parou pra pensar o que realmente significa qualidade de software no seu projeto atual? Já pensou em que estratégia deveria abordar para conseguir a satisfação dos usuários? Claro que funcionalidade “funcionando” é muito importante, mas e além disso? Que outras características são importantes? Acessibilidade, compatibilidade, escala? Vamos conversar sobre a visão de qualidade como um conjunto de componentes que agrega valor ao usuário final e como isso influencia na cultura DevOps
+"""
+palestrante = "Samanta Cicília" #nome do palestrante
+#slides = ""

@@ -1,6 +1,6 @@
 baseURL = "http://salvador.devopsdays.com.br/" #por enquanto não usamos essa configuração
 languageCode = "pt-br" #por enquanto não usamos essa configuração
-title = "DevOpsDays Salvador"
+title = "DevOpsDays SSA"
 theme = "devopsdayspoa"
 
 [params]
@@ -35,5 +35,5 @@ mapa_key = "AIzaSyCZgSdqxA3s-WhsIkB7TLQ4T4Z0Yz3oxH8" #chave na api do google, le
 status_ingressos = "disponiveis" #qualquer coisa que não seja "disponiveis" irá mostrar o aviso
 aviso_status_ingressos = "Em Breve!"
 
-status_programacao = "indisponivel" #qualquer coisa que não seja "disponivel" irá mostrar o aviso
+status_programacao = "disponivel" #qualquer coisa que não seja "disponivel" irá mostrar o aviso
 aviso_status_programacao = "Em Breve!"

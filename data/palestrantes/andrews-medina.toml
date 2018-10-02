@@ -1,0 +1,5 @@
+nome = "Andrews Medina" #nome do palestrante
+empresa = "Jusbrasil" #empresa do palestrante
+#minibio do palestrante (aceita markdown), caso seja necessário usar aspas, escapar com \ (ex: \"isto é um exemplo \")
+minibio = "Desenvolvedor na Jusbrasil desde 2016, ex globo.com, um dos fundadores do tsuru, um PaaS open source que tem como o objetivo tornar o deploy simples e rápido. Uso Go, Python e Javascript para criar aplicações escaláveis e resiliêntes."
+imagem = "andrews-medina.jpg"  #imagem do palestrante, apenas o nome da imagem... deve estar em static/img/palestrantes

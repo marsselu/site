@@ -1,0 +1,15 @@
+hora = "10:40 - 10:55" #hora da atividade
+atividade = "Automação de Testes: Como não ser um trouxa nesse mundo mágico"
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = """
+Bem Vindos a Hogwarts…não, este não é mais um livro de Harry Potter. Trata-se da Automação de Testes vista como “aquela que não deve ser nomeada” em muitas equipes e como podemos utilizar as melhores práticas e feitiços para realizar processos de testes cheios de magia!
+
+Nessa talk Caroline Ita e Luana Linares compartilham suas experiências com muito humor e magia fazendo uma alusão a saga Harry Potter e o mundo da Automação de Testes contando todos os desafios e aventuras que as levaram de trouxas (pessoas sem conhecimento e prática de magia) para bruxonas da qualidade de software.
+"""
+palestrante = "Caroline Ita e Luana Linares" #nome do palestrante
+#slides = ""

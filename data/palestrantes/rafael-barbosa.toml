@@ -1,0 +1,5 @@
+nome = "Rafel Barbosa" #nome do palestrante
+empresa = "" #empresa do palestrante
+#minibio do palestrante (aceita markdown), caso seja necessário usar aspas, escapar com \ (ex: \"isto é um exemplo \")
+minibio = "Ajudo times a alavancar e implementar suas idéias com tecnologias de ponta e que facilitem sua manutenção utilizando os 10 anos de experiencia que tenho em desenvolvimento, arquitetura, e mais recentemente serverless AWS."
+imagem = "rafael-barbosa.jpg"  #imagem do palestrante, apenas o nome da imagem... deve estar em static/img/palestrantes
