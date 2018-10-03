@@ -1,0 +1,13 @@
+hora = "14:10 - 14:25" #hora da atividade
+atividade = "Automação, DevOps e o BANESE! Como entramos nessa!"
+#descricao da atividade (aceita html e markdown)
+#para uma descrição em multiplas linhas, abrir e fechar o campo com 3 aspas
+#exemplo:
+#descricao = """blablabla
+#blablabla
+#blablabla"""
+descricao = """
+Iniciamos com a scripts, gerando otimização de diversos processos. Seguimos com Continuous Delivery, para entregas mais confiáveis, com menor janela de parada. Provas de conceito relacionadas a conteires e automatização estão a todo vapor. Como chegamos a isso é a proposta deste talk!
+"""
+palestrante = "Igor Macedo" #nome do palestrante
+#slides = ""
