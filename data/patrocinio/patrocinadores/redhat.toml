@@ -1,0 +1,5 @@
+nome = "redhat"#nome do patrocinador
+descricao = "Red Hat"#descricao que irá aparecer como texto alternativo da imagem
+link = "https://www.redhat.com/"#endereço do site do patrocinador
+categoria = "platina"#categoria do patrocinador (deve ser o mesmo nome do arquivo em data/patrocinio/categorias sem a extensão)
+imagem = "redhat.svg" #imagem da empresa (apenas o nome do arquivo, deve estar em static/img/patrocinio)

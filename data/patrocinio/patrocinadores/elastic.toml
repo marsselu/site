@@ -1,0 +1,5 @@
+nome = "elastic" #nome do patrocinador
+descricao = "Elastic" #descricao que irá aparecer como texto alternativo da imagem
+link = "https://www.elastic.co/" #endereço do site do patrocinador
+categoria = "prata" #categoria do patrocinador (deve ser o mesmo nome do arquivo em data/patrocinio/categorias sem a extensão)
+imagem = "elastic.svg" #imagem da empresa (apenas o nome do arquivo, deve estar em static/img/patrocinio)

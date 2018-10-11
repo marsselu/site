@@ -1,0 +1,5 @@
+nome = "g3solutions"#nome do patrocinador
+descricao = "G3 Solutions"#descricao que irá aparecer como texto alternativo da imagem
+link = "http://g3solutions.com.br/"#endereço do site do patrocinador
+categoria = "platina"#categoria do patrocinador (deve ser o mesmo nome do arquivo em data/patrocinio/categorias sem a extensão)
+imagem = "g3solutions.svg" #imagem da empresa (apenas o nome do arquivo, deve estar em static/img/patrocinio)
