@@ -17,7 +17,7 @@ facebook = "devopsdaysssa" #para https://www.facebook.com/nao-existe colocar ape
 
 #Os próximos 3 parametros aceitam tags html (ex: <br>) e markdown (ex: **negrito**)
 quando = "27 de Outubro de 2018"
-onde = "[UNIFACS Campus Paralela](http://www.unifacs.br)<br>Av. Luís Viana Filho nº 3146 / 3100 - Pituaçu"
+onde = "[UNIFACS Campus Paralela](http://www.unifacs.br)<br>[Av. Luís Viana Filho nº 3146 / 3100 - Pituaçu](https://www.google.com/maps/dir/Current+Location/-12.961088,-38.431942)"
 quanto = "à partir de R$ 50,00"
 linkcalendario = "https://calendar.google.com/event?action=TEMPLATE&tmeid=NmtyMXR2MWp1anMwZHI4ZzlicGRrajNmNWQgc29tYXRvcmlvQG0&tmsrc=somatorio%40gmail.com"
 
